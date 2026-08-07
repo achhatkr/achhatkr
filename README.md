@@ -27,7 +27,7 @@
 <!-- About Me Section -->
 <img align="right" alt="Coding" width="340" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
 
-## 🧑‍💻 &nbsp;About Me
+## About Me
 
 <p>
   <samp>
